@@ -1,0 +1,4 @@
+09/07/2011 
+Fix the bug when the abbreviation words appear in first of sentences.
+Align the text output. According to the longest word in Shakespare's works is 27 letters.
+Add some comments.

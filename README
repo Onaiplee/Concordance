@@ -1,0 +1,7 @@
+Functionality:
+Given an arbitrary text document written in English, write a program that will generate a
+concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies.
+Label each word with the sentence numbers in which each occurrence appeared. 
+
+Usage: 
+ruby concordance.rb [FILE_NAME]

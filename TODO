@@ -1,0 +1,3 @@
+1) Test more extreme case
+3) Add support for inputing from standard input, e.g.
+   $ cat text.txt | word_index.rb
