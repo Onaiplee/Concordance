@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #
-# This program is the answer of BridgeWater coding assignment.
+# This program is the answer of a coding assignment.
 # The code based on below two assumptions below:
 #
 # 1) The text is well formed. The first word of each sentence begin with
